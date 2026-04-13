@@ -17,4 +17,4 @@
 ![Voyager](images/voyagerpic1.jpeg)
 
 ## 👨‍💻 Author
-Kevin Hirosh
+Kevin Hirosh, Manula, Dinith, Thisara, Sithuni, Kithmi
