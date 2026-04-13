@@ -15,7 +15,6 @@
 
 ## 📸 Screenshots
 ![Voyager](images/voyagerpic1.jpeg)
-![Voyager](images/voyagerpic2.png)
 
 ## 👨‍💻 Author
 Kevin Hirosh
