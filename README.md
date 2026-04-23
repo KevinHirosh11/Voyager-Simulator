@@ -16,5 +16,36 @@
 ## 📸 Screenshots
 ![Voyager](images/voyagerpic1.jpeg)
 
-## 👨‍💻 Author
-Kevin Hirosh, Manula, Dinith, Thisara, Sithuni, Kithmi
+## 📊 Project Progress
+
+> **Current Phase:** Phase 2 — Simulation Coding  
+> **Last Updated:** April 23, 2026  
+> **Overall Status:** 🟡 In Progress
+
+### ✅ Phase 1 — 3D Asset Creation (Completed)
+
+| Task | Status |
+|------|--------|
+| 3D Voyager spacecraft model — Blender | ✅ Done |
+| Titan IIIE rocket model — Blender | ✅ Done |
+| Asset preparation & scene setup | ✅ Done |
+
+---
+
+### 🔲 Phase 2 — Simulation Coding (Current)
+
+> Assets are finalized. Coding phase is now starting.
+
+## 👨‍💻 Authors
+
+<table>
+  <tr>
+    <td align="center"><b>👤 Kevin Hirosh</b><br/><sub>Project Lead</sub></td>
+    <td align="center"><b>👤 Manula</b><br/><sub>Developer</sub></td>
+    <td align="center"><b>👤 Dinith</b><br/><sub>Developer</sub></td>
+    <td align="center"><b>👤 Thisara</b><br/><sub>Project Manager</sub></td>
+    <td align="center"><b>👤 Sithuni</b><br/><sub>Developer</sub></td>
+    <td align="center"><b>👤 Kithmi</b><br/><sub>Developer</sub></td>
+  </tr>
+</table>
+
