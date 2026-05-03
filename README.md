@@ -32,6 +32,18 @@
 
 ---
 
+### 🚀 Titan IIIE Rocket Model
+
+The Titan IIIE rocket model was created in Blender as part of the Phase 1 asset development. It represents the historic launch vehicle used by NASA to send the Voyager 1 and Voyager 2 spacecraft into space in 1977.
+
+- **Height:** ~48 meters (with Centaur upper stage)
+- **Stages:** Two-stage core (Titan III) plus a Centaur D-1T upper stage
+- **Role in Simulator:** Used to recreate the liftoff and staging sequence, providing a realistic launch experience before transitioning to deep-space exploration
+- **Status:** Fully modeled and integrated into the Unity scene
+
+![Titan IIIE Rocket Model](images/Titan%20III%20Rocket%20model.png)
+---
+
 ### 🔲 Phase 2 — Simulation Coding (Current)
 
 > Assets are finalized. Coding phase is now starting.
